@@ -1,1 +1,1 @@
-alert('Чё по GiT?');
+alert('Чё по GiT??');
